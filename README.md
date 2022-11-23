@@ -1,8 +1,10 @@
 #TECNICATURA EN CIENCIAS DE DATOS E INTELIGENCIA ARTIFICIAL
 # COHORTE 2022
 
-# Grupo A2G4 # BBLBB5-PROYECTOGAMMA = Cerealeras
-
+# Grupo A2G4 # BBLBB5-PROYECTOGAMMA = Cotizacion de Bolsa de Cereales
+	 	
+ https://www.bolsadecereales.com/	
+ 
 # Web Scrapping - Generar archivo, que se actualiza todos a diario con las cotizaciones de cada cereal
 
 #Integrantes
